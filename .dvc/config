@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = ../../../DVCData/BBBC007
+[core]
+remote = myremote
