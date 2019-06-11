@@ -1,0 +1,11 @@
+/images
+/labels
+/masks
+/index.csv
+/BBBC007_v1_images
+/BBBC007_v1_outlines
+/ColorMIP.m
+/CompressAndIndex.m
+/RandomSelect.m
+/ReadTiff.m
+/WriteTiff.m

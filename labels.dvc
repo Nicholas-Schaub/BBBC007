@@ -1,0 +1,8 @@
+md5: 04b9293ad0f479c3b1d4caad0a7069c2
+wdir: .
+outs:
+- md5: 6a7837e73840b6d759be2555d8e55b16.dir
+  path: labels
+  cache: true
+  metric: false
+  persist: false
